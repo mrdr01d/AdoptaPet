@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDiscriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_dicription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+
+        android:text="We are located in Delhi, India,we DO NOT adopt outside
+of the South Delhi area(as we require physical homechecks), nor will we ship dogs to other parts of the country, please do not ask.
+Scrappy Doo is a cute 7lb ball of love!! It takes a moment for this boy to get to know you, but once he does he's all kisses and cuddles!!
+Scrappy is being fostered in a home with other small dogs and loves to play with his dog friends and also loves playing with his chew toys and stuffed animals.
+He also enjoys his walks and being cuddled by his foster mom.
+This boy will be great in a home with another small dog,
+ but can also be in an only dog if his person is home quite often or works from home. " />
+
+</FrameLayout>
